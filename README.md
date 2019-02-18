@@ -2,7 +2,7 @@
 
 ## Custom Object Detection with Google Street View Images
 
-![Custom Vision AI Example](/images/ala_880_csv.png)
+![Custom Vision AI Example](https://github.com/walteryu/custom-vision/blob/master/images/ala_880_gsv.png)
 
 ### Introduction
 
