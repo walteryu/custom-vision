@@ -2,6 +2,8 @@
 
 ## Custom Object Detection with Google Street View Images
 
+![Custom Vision AI Example](/images/ala_880_csv.png)
+
 ### Introduction
 
 This repository contains code to train and test custom object detection with [Microsoft Custom Vision](https://customvision.ai)
@@ -15,7 +17,7 @@ This repository contains code to train and test custom object detection with [Mi
 ### Installation
 1. Follow tutorial instructions below to create model from Custom Vision Website
 2. For Python example: Clone this repository, update product keys and run example
-3. For trained model: Clone this repository and restore TensorFlow image located in images directory
+3. For trained model: Clone this repository and restore image located in images directory
 
 ### Citations
 
