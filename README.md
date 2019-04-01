@@ -1,12 +1,10 @@
-# Litter Detection with AI - Microsoft Custom Vision
-
-## Custom Object Detection with Google Street View Images
+# Litter Detection with Microsoft Custom Vision
 
 ![Custom Vision AI Example](https://github.com/walteryu/custom-vision/blob/master/images/ala_880_gsv.png)
 
 ### Introduction
 
-This repository contains code to train and test custom object detection with [Microsoft Custom Vision](https://customvision.ai)
+This repository contains trained models for custom object detection with [Microsoft Custom Vision](https://customvision.ai).
 
 ### Methodology
 
@@ -18,6 +16,8 @@ This repository contains code to train and test custom object detection with [Mi
 1. Follow tutorial instructions below to create model from Custom Vision Website
 2. For Python example: Clone this repository, update product keys and run example
 3. For trained model: Clone this repository and restore image located in images directory
+4. Tutorial and trained models are organized into separate directories within this repository
+5. Additional trained models under development and will be shared when available
 
 ### Citations
 
